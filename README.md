@@ -1,3 +1,4 @@
 # SerialOperations
 
-#https://codeship.com/projects/https://github.com/LudNaucnik/SerialOperations/status?branch=master
+
+[ ![Codeship Status for LudNaucnik/SerialOperations](https://app.codeship.com/projects/018df130-97c4-0134-c043-76dae4d5acdd/status?branch=master)](https://app.codeship.com/projects/187196)
